@@ -1,6 +1,6 @@
 {
-  "name": "week-3",
-  "version": "0.0.0",
+  "name": "assignment01",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -16,5 +16,18 @@
     "jquery": "^3.6.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "Assignmet 1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushGoel6293/Assignement1-WebDevelopment.git"
+  },
+  "author": "Piyush Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushGoel6293/Assignement1-WebDevelopment/issues"
+  },
+  "homepage": "https://github.com/PiyushGoel6293/Assignement1-WebDevelopment#readme"
 }
